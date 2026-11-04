@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Yashaswini!
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Enthusiastic+CSE+Student;Exploring+Software+Development;Passionate+About+Technology;Always+Learning+Something+New!" alt="Animated typing introduction" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashaswini-ir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  🎓 Enthusiastic Computer Science Engineering Student
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswini-ir&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
